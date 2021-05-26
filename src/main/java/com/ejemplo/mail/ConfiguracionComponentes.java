@@ -14,8 +14,8 @@ public class ConfiguracionComponentes {
 		
 		JavaMailSenderImpl javaMailSender = new JavaMailSenderImpl();
 		javaMailSender.setHost("smtp.gmail.com");
-		javaMailSender.setUsername("raul.gomezn27@gmail.com");
-		javaMailSender.setPassword("27grijano");
+		javaMailSender.setUsername("xxxxxx@gmail.com");
+		javaMailSender.setPassword("xxxxx");
 		javaMailSender.setPort(587); //587
 		
 		Properties propMail = new Properties();
